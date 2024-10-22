@@ -1,0 +1,36 @@
+head
+{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif; 
+}
+header
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.body
+{
+    background-image: url(IMAGENS/background_site.avif);
+    font-family: 'Times New Roman', Times, serif;
+}
+main
+{
+
+}
+footer
+{
+
+}
+.logo
+{
+    width: 70px;
+    height: 70px;
+    position: relative; /* Ou absolute, dependendo do seu layout */
+}
+.logocentro
+{
+    width: 10px;
+    height: 1px;
+    position: relative; /* Ou absolute, dependendo do seu layout */
+    top: -5px; /* Ajusta a distância do topo */
+    left: -4px; /* Ajusta a distância da esquerda */
+}
